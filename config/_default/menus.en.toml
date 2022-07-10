@@ -10,8 +10,6 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-title = "Consequence Design"
-
 [[main]]
   name = "Blog"
   pageRef = "posts"
@@ -26,16 +24,6 @@ title = "Consequence Design"
   name = "Tags"
   pageRef = "tags"
   weight = 30
-
-[author]
-name = "Ron Bronson"
-image = ""
-headline = ""
-bio = ""
-links = [
-  { twitter = "https://twitter.com/ronbronson" }
-]
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
