@@ -35,7 +35,7 @@ enableCodeCopy = false
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  # editURL = "https://github.com/quarterback/QX22"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -45,7 +45,7 @@ enableCodeCopy = false
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  # sharingLinks = ["lastfm", "twitter", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = false
